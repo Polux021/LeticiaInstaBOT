@@ -11,7 +11,7 @@ Um bot usado para comentar no instagram, Pode ser usado para ganhar sorteios com
 # Instalação
 
 ```bash
-> git clone https://github.com/Polux021/Leticia-InstaBOT
+> git clone https://github.com/Polux021/LeticiaInstaBOT
 > cd LeticiaInstaBOT
 > npm i
 > node index.js
