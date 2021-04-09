@@ -1,0 +1,17 @@
+{
+  "name": "leticia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Polux",
+  "license": "ISC",
+  "dependencies": {
+    "await": "^0.2.6",
+    "puppeteer": "^8.0.0",
+    "puppeteer-core": "^8.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
