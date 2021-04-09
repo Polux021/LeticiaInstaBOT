@@ -1,9 +1,9 @@
-# Leticia Bot
+### Leticia Bot
 
 Um bot usado para comentar no instagram, Pode ser usado para ganhar sorteios comentando muitas vezes
 
 
-# Requisitos
+### Requisitos
 
 - NodeJS
 - Windows/MacIOS
