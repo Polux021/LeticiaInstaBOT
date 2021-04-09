@@ -5,8 +5,8 @@ Um bot usado para comentar no instagram, Pode ser usado para ganhar sorteios com
 
 # Requisitos
 
-NodeJS
-Windows/MacIOS
+- NodeJS
+- Windows/MacIOS
 
 # Instalação
 
