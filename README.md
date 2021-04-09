@@ -33,3 +33,6 @@ abra o CMD e digite
 ### Licença
 
 esse software contem a Licença MIT
+
+### Grupo do criador ( lá tem a Leticia versão whatsapp que ainda não se encontra presente no github )
+Nostalgic ( Temporariamente vai ser o grupo ofc ): https://chat.whatsapp.com/HQ76UEnX3krBZup8d1UARB
