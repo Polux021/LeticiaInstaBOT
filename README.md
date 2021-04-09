@@ -26,3 +26,6 @@ abra o CMD e digite
 > node index.js
 ```
 
+# Licença
+
+esse software contem a Licença MIT
