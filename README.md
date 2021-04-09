@@ -1,4 +1,8 @@
-### Leticia Bot
+### Projeto Leticy
+
+O projeto consiste em um bot chamado leticia com varias versões, Whatsapp Bot , Comment Bot, Bot Like etc..
+
+### Leticia Insta Bot
 
 Um bot usado para comentar no instagram, Pode ser usado para ganhar sorteios comentando muitas vezes
 
