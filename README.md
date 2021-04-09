@@ -8,7 +8,7 @@ Um bot usado para comentar no instagram, Pode ser usado para ganhar sorteios com
 - NodeJS
 - Windows/MacIOS
 
-# Instalação
+### Instalação
 
 ```bash
 > git clone https://github.com/Polux021/LeticiaInstaBOT
@@ -26,6 +26,6 @@ abra o CMD e digite
 > node index.js
 ```
 
-# Licença
+### Licença
 
 esse software contem a Licença MIT
