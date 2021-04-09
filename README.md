@@ -11,7 +11,7 @@ NodeJS
 
 ```bash
 > git clone https://github.com/Polux021/Leticia-InstaBOT
-> cd Leticia-InstaBOT
+> cd LeticiaInstaBOT
 > npm i
 > node index.js
 ```
