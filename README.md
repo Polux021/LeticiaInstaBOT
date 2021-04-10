@@ -18,6 +18,7 @@ Um bot usado para comentar no instagram, Pode ser usado para ganhar sorteios com
 > git clone https://github.com/Polux021/LeticiaInstaBOT
 > cd LeticiaInstaBOT
 > npm i
+> npm i puppeteer (se der error use) npm i puppeteer-core
 > node index.js
 ```
 
@@ -27,6 +28,7 @@ abra o CMD e digite
 ```bash
 > cd "local do arquivo"
 > npm i
+> npm i puppeteer (se der error use) npm i puppeteer-core
 > node index.js
 ```
 
