@@ -12,7 +12,7 @@ function sleep(ms) {
 
 (async () => {
   const PluxBROWSER = await puppeteer.launch({ headless: false }); // Se nao quiser que o Navegador abra, Mude para True
-  const page = await browser.newPage();
+  const page = await PluxBROWSER.newPage();
   await page.goto(`https://www.instagram.com/`);
   await sleep(5000)
   await page.type("._2hvTZ.pexuQ.zyHYP", "email@email.com") // email
