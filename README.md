@@ -37,4 +37,4 @@ abra o CMD e digite
 esse software contem a Licença MIT
 
 ### Grupo do criador ( lá tem a Leticia versão whatsapp que ainda não se encontra presente no github )
-Nostalgic ( Temporariamente vai ser o grupo ofc ): https://chat.whatsapp.com/HQ76UEnX3krBZup8d1UARB
+Nostalgic ( Temporariamente vai ser o grupo ofc ): https://chat.whatsapp.com/Jqt7w4gDjzC81tuglbLvIa
